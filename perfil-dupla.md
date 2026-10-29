@@ -1,14 +1,15 @@
 # Perfil da Dupla
+kaiq2011
 
 ## Nome da dupla
-(a definir)
+(Kaiq Maia Soares)
 
 ## Cor favorita da dupla
-(a definir)
+(Azul)
 
 ## Comida favorita da dupla
-(a definir)
+(Macarrão)
 
 ## Frase da dupla
-(a definir)
+(Olha esse cara mano)
 
