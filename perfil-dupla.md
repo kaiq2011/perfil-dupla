@@ -1,14 +1,15 @@
 # Perfil da Dupla
-
-## Nome da dupla
-(a definir)
+isaacsousa150
+## Nome da dupla 
+Isaac de Souza
 
 ## Cor favorita da dupla
-(a definir)
+azul
 
 ## Comida favorita da dupla
-(a definir)
+hamburguer 
 
 ## Frase da dupla
-(a definir)
+teu pai morreu
+
 
